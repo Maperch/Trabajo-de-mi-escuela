@@ -155,3 +155,4 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Feb2025 03:19:18.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Trapped Inside]
 [05Feb2025 03:19:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 9908.500000, 64.500000, 10045.500000]
 [05Feb2025 03:20:31.428] [Server thread/INFO] [com.lothrazar.storagenetwork.StorageNetworkMod/]: Chunk not loadedBlockPos{x=-593, y=108, z=11}
+[05Feb2025 03:29:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -597.500000, 109.500000, 19.500000]
