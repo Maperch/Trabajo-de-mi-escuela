@@ -19529,5 +19529,17 @@
     },
     "done": true
   },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-02-05 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2025-02-05 05:32:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

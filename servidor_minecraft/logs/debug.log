@@ -5532,3 +5532,32 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Feb2025 04:54:03.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [05Feb2025 04:54:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
 [05Feb2025 04:54:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Feb2025 04:55:54.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Feb2025 04:57:54.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 04:57:54.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 04:58:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Feb2025 04:58:54.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Feb2025 04:59:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Feb2025 05:01:23.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Feb2025 05:02:01.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Feb2025 05:02:54.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:02:54.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:03:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Feb2025 05:06:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set the time to 1000]
+[05Feb2025 05:07:54.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:07:54.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:12:54.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:12:54.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:17:54.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:17:54.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:22:54.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:22:54.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:25:57.431] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 05:26:01.430] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 05:26:37.431] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 05:26:41.465] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 05:27:54.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:27:54.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:32:54.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:32:54.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:35:33.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['EL ULTIMO DE TODOS'/14413, l='ServerLevel[world]', x=-582.25, y=88.91, z=14.48] died: EL ULTIMO DE TODOS was killed by radiation poisoning.
