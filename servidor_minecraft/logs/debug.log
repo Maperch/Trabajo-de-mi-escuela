@@ -5233,3 +5233,27 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Feb2025 03:29:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -597.500000, 109.500000, 19.500000]
 [05Feb2025 03:32:54.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 03:32:54.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:34:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 9888.500000, 70.500000, 10076.500000]
+[05Feb2025 03:35:03.024] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Attempting to add 2 chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 03:35:12.247] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 03:36:19.473] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 03:36:23.978] [Server thread/INFO] [com.lothrazar.storagenetwork.StorageNetworkMod/]: Chunk not loadedBlockPos{x=-593, y=108, z=11}
+[05Feb2025 03:36:24.873] [Server thread/INFO] [com.lothrazar.storagenetwork.StorageNetworkMod/]: Chunk not loadedBlockPos{x=-593, y=108, z=11}
+[05Feb2025 03:36:25.813] [Server thread/INFO] [com.lothrazar.storagenetwork.StorageNetworkMod/]: Chunk not loadedBlockPos{x=-593, y=108, z=11}
+[05Feb2025 03:36:42.477] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 1 no longer valid chunk tickets, and added 0 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 03:37:13.423] [Server thread/DEBUG] [mekanism.common.tile.component.TileComponentChunkLoader/]: Removed 0 no longer valid chunk tickets, and added 1 newly valid chunk tickets. Pos: BlockPos{x=9885, y=70, z=10078} World: minecraft:overworld
+[05Feb2025 03:37:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -597.500000, 109.500000, 19.500000]
+[05Feb2025 03:37:54.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:37:54.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:42:54.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:42:54.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:47:54.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:47:54.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:52:54.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:52:54.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:54:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 9888.500000, 70.500000, 10076.500000]
+[05Feb2025 03:57:54.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:57:54.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:59:56.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -597.500000, 109.500000, 19.500000]
+[05Feb2025 04:02:54.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 04:02:54.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

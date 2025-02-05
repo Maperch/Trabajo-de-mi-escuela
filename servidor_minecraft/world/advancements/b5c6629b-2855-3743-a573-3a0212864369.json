@@ -19511,5 +19511,11 @@
     },
     "done": true
   },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2025-02-05 03:34:42 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
