@@ -19511,17 +19511,23 @@
     },
     "done": true
   },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2025-02-05 03:34:42 +0000"
+    },
+    "done": false
+  },
   "mekanism:chemical_transport": {
     "criteria": {
       "basic_pressurized_tube": "2025-02-05 04:41:39 +0000"
     },
     "done": true
   },
-  "mekanism:stabilizing_chunks": {
+  "mekanism:fluid_transport": {
     "criteria": {
-      "upgrade_anchor": "2025-02-05 03:34:42 +0000"
+      "basic_mechanical_pipe": "2025-02-05 04:49:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
