@@ -5218,3 +5218,13 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Feb2025 03:02:54.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Feb2025 03:07:54.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 03:07:54.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:12:55.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:12:55.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:17:54.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:17:54.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:19:18.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Trapped Inside]
+[05Feb2025 03:19:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 9908.500000, 64.500000, 10045.500000]
+[05Feb2025 03:20:31.428] [Server thread/INFO] [com.lothrazar.storagenetwork.StorageNetworkMod/]: Chunk not loadedBlockPos{x=-593, y=108, z=11}
+[05Feb2025 03:20:55.546] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[05Feb2025 03:22:54.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:22:54.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

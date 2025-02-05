@@ -152,3 +152,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Feb2025 02:55:03.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
 [05Feb2025 02:55:03.040] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
 [05Feb2025 02:55:05.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[05Feb2025 03:19:18.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Trapped Inside]
+[05Feb2025 03:19:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 9908.500000, 64.500000, 10045.500000]
+[05Feb2025 03:20:31.428] [Server thread/INFO] [com.lothrazar.storagenetwork.StorageNetworkMod/]: Chunk not loadedBlockPos{x=-593, y=108, z=11}

@@ -19505,5 +19505,11 @@
     },
     "done": true
   },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-02-05 03:19:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
